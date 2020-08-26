@@ -1,0 +1,1 @@
+Welcome to the Scientific Papers platform {{$name}}!

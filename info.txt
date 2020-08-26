@@ -1,0 +1,11 @@
+Steps:
+
+Integrate GitBash in VSCODE
+In the CLI, htdocs folder run:
+composer create project laravel/laravel scientificpapers
+
+change vhosts to redirect scientificpapers.test to the index page instead of the public folder:
+    edit vhosts file in apache/conf folder, and hosts file in sys32/drivers/etc
+
+Create a Main controller:
+    php artisan make:controller MainController

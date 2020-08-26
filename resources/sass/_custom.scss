@@ -1,0 +1,16 @@
+body, html {
+    height: 100%;
+  }
+  
+  .bg { 
+    /* The image used */
+    background-image: url("https://cdn.the-scientist.com/assets/articleNo/34114/iImg/9405/f833bc7d-4f8a-4788-be47-6f1ff56e0ebe-critic.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
